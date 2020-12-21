@@ -1,0 +1,17 @@
+/Users/ellistrickett/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/ellistrickett/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/ellistrickett/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.deps.json
+/Users/ellistrickett/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.json
+/Users/ellistrickett/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.dev.json
+/Users/ellistrickett/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.dll
+/Users/ellistrickett/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.pdb
+/Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csprojAssemblyReference.cache
+/Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfoInputs.cache
+/Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfo.cs
+/Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cache
+/Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cs
+/Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.dll
+/Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.pdb
+/Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.genruntimeconfig.cache
