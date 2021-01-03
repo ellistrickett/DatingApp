@@ -15,3 +15,4 @@
 /Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.dll
 /Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.pdb
 /Users/ellistrickett/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.genruntimeconfig.cache
+/Users/ellistrickett/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/Data/UserSeedData.json
